@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HarriInterviewTask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rami Hussien</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="weather_app_id">1867722b6af87e1d0388e10c5a94be34</string>
+    <string name="country_name">Country name</string>
+    <string name="region">Region</string>
+    <string name="name">Name</string>
+    <string name="capital">Capital</string>
+    <string name="population">Population</string>
+
+    <string name="main_title">Country Weather</string>
+    <string name="fragment_created">fragment created</string>
+    <string name="date">Date</string>
+    <string name="temp">Temp</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">tomorrow</string>
+</resources>
